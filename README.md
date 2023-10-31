@@ -1,3 +1,20 @@
+# Steps
+1. Clone this repo `git clone https://github.com/toutanaoufal/salesforce-lwc-pagelayout-collapsible-sections.git`<br />
+2. Auhtorize your org<br />
+3. Deploy Source in Manifest to Org<br />
+
+Drag lwcLayoutRecordDisplay Component in Details Tab of Record Page and Set pageLayoutName Property.<br />
+
+To retrieve Page Layout Api Name : <br />
+
+- Login to Salesforce Workbench (https://workbench.developerforce.com/login.php).<br />
+- Login to workbench.<br />
+- Hover over "Info"<br />
+- Select "Metadata Types & Components"<br />
+- Select "Layout" from the drop-down<br />
+- Expand Component folder<br />
+- Here you can see all the layout object-wise.<br />
+
 ![collapsible sections](https://github.com/toutanaoufal/salesforce-lwc-pagelayout-collapsible-sections/blob/main/2.gif)
 
 ![collapsible sections](https://github.com/toutanaoufal/salesforce-lwc-pagelayout-collapsible-sections/blob/main/1.PNG)
