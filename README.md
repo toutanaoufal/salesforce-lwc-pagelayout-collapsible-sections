@@ -1,3 +1,6 @@
+![collapsible sections](https://github.com/toutanaoufal/salesforce-lwc-pagelayout-collapsible-sections/blob/main/2.gif)
+
+![collapsible sections](https://github.com/toutanaoufal/salesforce-lwc-pagelayout-collapsible-sections/blob/main/1.PNG)
 # Salesforce DX Project: Next Steps
 
 Now that you’ve created a Salesforce DX project, what’s next? Here are some documentation resources to get you started.
